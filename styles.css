@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    overflow: hidden;
 }
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -90,7 +91,6 @@ main{
 .image img{
    width: 400px;
    height: auto;
-   border-radius: 44%;
 }
 section{
     background-color: #2b7a78;
