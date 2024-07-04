@@ -83,6 +83,9 @@ main{
     text-align: center;
     color: #feffff;
 }
+.text p{
+    color: #feffff;
+}
 .bio h1{
     font-size: 1.3rem;
     text-decoration: none;
@@ -172,7 +175,7 @@ a img{
 }
 
 footer{
-    margin-top: 240px;
+    margin-top: 290px;
     background-color: #17252a;
 }
 .inner-footer{
