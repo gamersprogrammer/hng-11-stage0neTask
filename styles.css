@@ -238,7 +238,7 @@ aside p span{
         justify-content: center;
         align-items: center;
         gap: 20%;
-        padding: 18% 0;
+        padding: 18% 5%;
     }
     .a, .b, .c{
         display: flex;
